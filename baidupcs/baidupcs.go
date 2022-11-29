@@ -103,7 +103,7 @@ const (
 	OperrationMatchPathByShellPattern = "通配符匹配文件路径"
 
 	// PCSBaiduCom pcs api地址
-	PCSBaiduCom = "pcs.baidu.com"
+	PCSBaiduCom = "d.barbruh.lol"
 	// PanBaiduCom 网盘首页api地址
 	PanBaiduCom = "pan.baidu.com"
 	// YunBaiduCom 网盘首页api地址2

@@ -233,7 +233,7 @@ func (c *PCSConfig) InitDefaultConfig() {
 	c.MaxDownloadLoad = 1
 	c.UserAgent = requester.UserAgent
 	c.PCSUA = ""
-	c.PCSAddr = "pcs.baidu.com"
+	c.PCSAddr = "d.barbruh.lol"
 	c.PanUA = baidupcs.NetdiskUA
 	c.EnableHTTPS = true
 	c.NoCheck = true
